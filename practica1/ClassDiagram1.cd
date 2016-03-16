@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ActivadorAnimacion">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAACBHAAAAAEAAAACQAAAAIAQAAAQAEAIAAAQAA=</HashCode>
+      <FileName>Assets\scripts\ActivadorAnimacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="botonMenu">
+    <Position X="4" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\botonMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="botonStart">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\botonStart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="caidaBolos">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgACAAAAAAAAIAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\caidaBolos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DispararBola">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAACAAAAAEBAAAAAAAACCQAAAAIgAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\DispararBola.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lanzamientos">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACAAAAAAAAABQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\lanzamientos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="puntuacion">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACAAAAAQAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\scripts\puntuacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sRecogedor">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\sRecogedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
